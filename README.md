@@ -3,8 +3,15 @@
 the CLI expense tracker thing  
 project link: https://roadmap.sh/projects/expense-tracker
 
+## not done yet  
+things missing:  
+- proper file seperation
+- ugly formatting on list command
+- fix ID system
+- you cant have negative expenses
 
-### thank you intellisense lol
+i might do this at some point i kinda have to but eh
+
 ## Quick start
 
 Add an expense:
